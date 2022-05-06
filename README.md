@@ -14,8 +14,8 @@
  
 # Deploy To Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItskabirsItskabirs/MightyIDSpamDeploy
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itskabirs/
+ItskabirsMightyIDSpamDeploy
 <br>
 
 <details>
